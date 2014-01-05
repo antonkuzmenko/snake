@@ -1,2 +1,2 @@
-snake
+An browser based Snake game
 =====

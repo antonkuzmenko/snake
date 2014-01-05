@@ -1,0 +1,22 @@
+.wrapper {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+canvas {
+  background: #dadada;
+  display: block;
+  float: left;
+}
+
+.buttons {
+    width: 80px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 14px;
+}
+
+button {
+    width: 60px;
+}
